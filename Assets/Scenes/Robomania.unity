@@ -1892,7 +1892,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e8d42ac41c0c67f4982c02bd44b63055, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: -3
+  speed: 3
 --- !u!61 &1163686253
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1902,7 +1902,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1163686245}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 8c1e6822c754e9e45b5f2cbf47cc8fac, type: 2}
+  m_Material: {fileID: 6200000, guid: 1d600f76995ab7c4bb295a34e66787bd, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -1954,7 +1954,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 6200000, guid: 8c1e6822c754e9e45b5f2cbf47cc8fac, type: 2}
+  m_Material: {fileID: 6200000, guid: 1d600f76995ab7c4bb295a34e66787bd, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
